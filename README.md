@@ -137,8 +137,11 @@ Every customer record is enriched with:
 ## 📊 Tech Stack
 
 **Core:** Python · Pandas · NumPy
+
 **ML:** Scikit-learn · XGBoost
+
 **Visualization:** Plotly · Streamlit
+
 **Testing:** Python `unittest`
 
 ---
