@@ -230,6 +230,7 @@ It brings together data analysis, feature engineering, customer segmentation, ma
 
 **Pratyaksha Gupta**
 Integrated M.Tech, Computer Science & Engineering — Data Analytics & AI
+
 *Data Analyst | Business Intelligence Enthusiast*
 
 ---
