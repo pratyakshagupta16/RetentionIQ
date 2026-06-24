@@ -1,14 +1,19 @@
 # 📊 RetentionIQ
 
 ### Customer Behavior Analytics, RFM Segmentation & Churn Intelligence Dashboard
+<img width="1897" height="645" alt="image" src="https://github.com/user-attachments/assets/9f84f2d7-0a30-4229-8871-cb15bce3949e" />
+<img width="1918" height="911" alt="image" src="https://github.com/user-attachments/assets/5dd01356-4160-4dc0-a372-cc4abf187162" />
+<img width="1897" height="898" alt="image" src="https://github.com/user-attachments/assets/11233e14-0e1a-4138-8ca8-b3e4a3886b2f" />
+<img width="1910" height="874" alt="image" src="https://github.com/user-attachments/assets/7bf9d3ad-67dc-4d6b-bc28-2fbc008aba09" />
+<img width="1909" height="876" alt="image" src="https://github.com/user-attachments/assets/bab81101-2552-4af1-ae4b-c36b5574ca18" />
+<img width="1919" height="857" alt="image" src="https://github.com/user-attachments/assets/5c84e8a4-2f33-42b9-b539-201be7062d75" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/18a1790b-7baa-45db-a46c-efc1699c6630" />
+<img width="1919" height="796" alt="image" src="https://github.com/user-attachments/assets/94fb34b2-ac6e-49b3-bcad-b55665b64516" />
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://retentioniq-odxzwnbcfgbphjjukpqq9e.streamlit.app/)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-data%20engineering-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-churn%20model-006400)
-![Plotly](https://img.shields.io/badge/Plotly-interactive%20viz-3F4F75?logo=plotly&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-success)
+
+
+
+
 
 **[🔗 View Live Dashboard](https://retentioniq-odxzwnbcfgbphjjukpqq9e.streamlit.app/)**
 
